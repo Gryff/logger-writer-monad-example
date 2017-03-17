@@ -1,0 +1,17 @@
+{
+  "name": "logger-writer-monad",
+  "version": "0.1.0",
+  "description": "Example of using the writer monad for nodejs logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "$(npm bin)/ava"
+  },
+  "keywords": [
+    "monad",
+    "writer",
+    "monad",
+    "logging"
+  ],
+  "author": "Liam Griffin",
+  "license": "ISC"
+}
